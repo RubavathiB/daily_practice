@@ -1,0 +1,5 @@
+these are the questions:
+1.verify phone number pattern
+2.defuge ip
+3.share candies
+4.take one
