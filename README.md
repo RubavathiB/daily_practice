@@ -1,2 +1,5 @@
-# python daily challenges
+# Daily practice problems
+# Python
+# Short Coding
+# Placement training 
 
